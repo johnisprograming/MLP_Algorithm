@@ -43,7 +43,7 @@ public class DequeArray {
 		
 		// 찾아서 삭제
 		System.out.println("사과 remove : " + dq.remove("사과")); // 사과 remove : true
-		System.out.println(dq); // [포도, 배, 수박, 복숭아, 복숭아]
+		System.out.println(dq); // [포도, 배, 수박, 복숭아, 복S숭아]
 		
 		System.out.println("딸기 remove : " + dq.remove("딸기")); // 없으면 false
 		System.out.println(dq);
